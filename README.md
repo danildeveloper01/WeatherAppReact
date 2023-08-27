@@ -1,4 +1,4 @@
-
+This is a test assignment from SolverIT (www.solver.sk). Max Temperature, Humidity, Visibility, Wind Direction, Cloudiness, Sunrise, and Sunset have been added. Also, the block with this information has been moved above. The original repository can be found at (https://github.com/miroslavvali/weather-app).
 
 
 ## Available Scripts
